@@ -1,0 +1,182 @@
+[
+    {
+        "id": "sombrero-01",
+        "titulo": "Sombrero 01",
+        "imagen": "./img/sombreros/01.jpg",
+        "categoria": {
+            "nombre": "Sombrero",
+            "id": "sombreros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sombrero-02",
+        "titulo": "Sombrero 02",
+        "imagen": "./img/sombreros/02.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sombrero-03",
+        "titulo": "Sombrero 03",
+        "imagen": "./img/sombreros/01.jpg",
+        "categoria": {
+            "nombre": "Sombreros",
+            "id": "sombreros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sombrero-04",
+        "titulo": "Sombrero 04",
+        "imagen": "./img/sombreros/04.jpg",
+        "categoria": {
+            "nombre": "Sombreros",
+            "id": "sombrero"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sombrero-05",
+        "titulo": "Sombrero 05",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Sombrero",
+            "id": "sombreros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bolsos-01",
+        "titulo": "Bolsos 01",
+        "imagen": "./img/bolsos/01.jpg",
+        "categoria": {
+            "nombre": "Bolsos",
+            "id": "bolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bolsos-02",
+        "titulo": "Bolsos 02",
+        "imagen": "./img/bolsos/02.jpg",
+        "categoria": {
+            "nombre": "Bolsos",
+            "id": "bolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bolso-03",
+        "titulo": "Bolsos 03",
+        "imagen": "./img/bolsos/03.jpeg",
+        "categoria": {
+            "nombre": "Bolsos",
+            "id": "bolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bolso-04",
+        "titulo": "Bolsos 04",
+        "imagen": "./img/bolsos/04.jpg",
+        "categoria": {
+            "nombre": "Bolsos",
+            "id": "bolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bolso-05",
+        "titulo": "Bolsos 05",
+        "imagen": "./img/bolsos/05.jpg",
+        "categoria": {
+            "nombre": "Bolsos",
+            "id": "bolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bolso-06",
+        "titulo": "Bolso 06",
+        "imagen": "./img/bolsos/06.jpg",
+        "categoria": {
+            "nombre": "Bolsos",
+            "id": "bolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bolso-07",
+        "titulo": "Bolso 07",
+        "imagen": "./img/bolsos/07.jpg",
+        "categoria": {
+            "nombre": "Bolsos",
+            "id": "bolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bolso-08",
+        "titulo": "Bolso 08",
+        "imagen": "./img/bolsos/08.jpg",
+        "categoria": {
+            "nombre": "Bolsos",
+            "id": "bolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "poncho-01",
+        "titulo": "Poncho 01",
+        "imagen": "./img/ponchos/01.jpg",
+        "categoria": {
+            "nombre": "Ponchos",
+            "id": "ponchos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "poncho-02",
+        "titulo": "Poncho 02",
+        "imagen": "./img/ponchos/02.jpg",
+        "categoria": {
+            "nombre": "Ponchos",
+            "id": "ponchos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "poncho-03",
+        "titulo": "Poncho 03",
+        "imagen": "./img/ponchos/03.jpg",
+        "categoria": {
+            "nombre": "Ponchos",
+            "id": "ponchos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "poncho-04",
+        "titulo": "Poncho 04",
+        "imagen": "./img/ponchos/04.jpg",
+        "categoria": {
+            "nombre": "Ponchos",
+            "id": "ponchos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "poncho-05",
+        "titulo": "Poncho 05",
+        "imagen": "./img/ponchos/05.jpg",
+        "categoria": {
+            "nombre": "Ponchos",
+            "id": "Ponchos"
+        },
+        "precio": 1000
+    }
+]
